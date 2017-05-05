@@ -15,5 +15,4 @@ For transmission over the 868,275MHz frequency, the data contents (bytes 4-14, b
 
 Each signal is first sent with byte 9 set to 0x00 and shortly afterwards repeated with byte 9 set to 0x01 (and the checksum updated correspondingly).
 
-![The signal as a wave](https://github.com/kainhofer/vaillant-calormatic340f/blob/master/Images/Vaillant-Thermostat-AM-868.288MHz-Wave.png)
-![The signal and its repeat with comments](https://github.com/kainhofer/vaillant-calormatic340f/blob/master/Images/Vaillant-Thermostat-AM-868.287MHz-Wave2a-Zoom_Repeat_Annotated.png)
+![The signal and its repeat with comments](https://github.com/kainhofer/vaillant-calormatic340f/blob/master/Images/Vaillant-Thermostat-AM-868.287MHz-Wave2a-Zoom_Repeat_Annotated2.png)
