@@ -7,6 +7,7 @@ The remote control sends only the following data to the boiler, all other smart 
   * Heating On/Off (in analogue mode: heating water temperature)
   * Warm water pre-heating On/Off
   * Battery OK/LOW
+
 ![Packet structure of the Vaillant calorMatic 340f](https://github.com/kainhofer/vaillant-calormatic340f/blob/master/Images/Vaillant_CalorMatic340f_PacketStructure_Vertical.png)
 
 All bytes are converted to a bit sequence with least-significant bit first.
